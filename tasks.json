@@ -1,0 +1,10 @@
+{
+  "join_channel": {
+    "title": "Join our Telegram Channel",
+    "reward": 50
+  },
+  "follow_updates": {
+    "title": "Follow Updates Channel",
+    "reward": 30
+  }
+}
